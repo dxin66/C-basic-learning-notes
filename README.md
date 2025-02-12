@@ -1,2 +1,2 @@
-# C
-C basic knowledge
+# C language 
+C basic knowledge; some notes 
